@@ -1,6 +1,6 @@
 name: JustDiego
 favicon: null
-layout_spectrum: 0.766741368221119
+layout_spectrum: 0.01333
 typography_spectrum: 0.427604406606406
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.7856844733469188
-  lightness: 0.8387756326701492
-  saturation: 0.06572374701499939
-  rhythmicContrast: 0.15522872749716043
+  brandStrength: 0.625
+  lightness: 0.125
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
